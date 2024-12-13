@@ -1,1 +1,3 @@
 Today's session is about Git and GitHub
+I am learning to become a Data Scientist
+
